@@ -4,7 +4,7 @@ function sayHello(name) {
   console.log('Hello ' + name);
 }
 
-// sayHello('Ben');
+// sayHello('Ben'); //
 console.log(window);
 
 
@@ -16,3 +16,5 @@ clearTimeout();
 
 setInterval(); // Repeatedly call a function after a given delay // 
 clearInterval(); // Stop that function from being called repeatdely //
+
+// GLOBAL OBJECTS //
